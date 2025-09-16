@@ -31,7 +31,7 @@ const personalInfo = {
   email: "b230065@nitsikkim.ac.in",
   phone: "+91-8522840158",
   linkedin: "https://www.linkedin.com/in/siddareddy-rajesh-reddy/",
-  github: "https://github.com/Rajeshreddy-s",
+  github: "https://github.com/SiddareddyRajeshReddy",
 };
 
 // NAVIGATION
